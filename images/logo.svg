@@ -1,0 +1,17 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" id="svg_1" d="m200.022206,161.590887l-35.464666,39.761079l35.464666,39.761041l-20.267686,22.736586l-55.732319,-62.497623l55.732319,-62.502399" stroke-width="1.5" fill="#4c4c4c"/>
+  <path id="svg_2" d="m425.5,234.453125" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <path stroke="#000" transform="rotate(180 441.53216552734375,199.86460876464844) " id="svg_4" d="m482.03216,159.787843l-37.797857,40.079164l37.797857,40.079126l-21.60108,22.918477l-59.398902,-62.997599l59.398902,-63.002413" stroke-opacity="null" stroke-width="1.5" fill="#333333"/>
+  <text stroke="#000" transform="matrix(3.7481511980074282,0,0,2.7272483667515344,-752.6016612742457,-283.2978827924125) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="24" id="svg_5" y="186.453125" x="256.766798" stroke-opacity="null" stroke-width="0" fill="#4c4c4c">RTR</text>
+ </g>
+</svg>
