@@ -7,8 +7,34 @@ header {
 }
 #titulo{
     text-align: center;
-
 }
-nav{
-
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
+
+#texto{
+    text-align: center;
+    color: white;
+    background-color: rgb(95, 95, 102);
+}
+#perfil{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    background-color: rgb(6, 6, 83);
+}
+main img{
+     align-items: center;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(83, 83, 85);
+}
+
