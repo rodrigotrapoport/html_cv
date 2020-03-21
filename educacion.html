@@ -42,24 +42,62 @@
         <table class="table">
             <thead class="thead-light">
                 <tr>
-                    <th>#</th>
-                    <th>First Name</th>
-                    <th>Last Name</th>
+                    <th>Año</th>
+                    <th>Institución</th>
+                    <th>Lugar</th>
+                    <th>¿Culmino?</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">1</th>
-                    <td>Mark</td>
-                    <td>Otto</td>
+                    <th scope="row">1998</th>
+                    <td>ORT Nº2</td>
+                    <td>Buenos Aires</td>
+                    <td>Si</td>
                 </tr>
                 <tr>
-                    <th scope="row">2</th>
-                    <td>Jacob</td>
-                    <td>Thornton</td>
+                    <th scope="row">2007</th>
+                    <td>UTDT</td>
+                    <td>Buenos Aires</td>
+                    <td>Si</td>
+                </tr>
+                <tr>
+                    <th scope="row">2016</th>
+                    <td>ITBA</td>
+                    <td>Buenos Aires</td>
+                    <td>Si</td>
+                </tr>
+                <tr>
+                    <th scope="row">2019</th>
+                    <td>UTN</td>
+                    <td>Buenos Aires</td>
+                    <td>Si</td>
                 </tr>
             </tbody>
         </table>
+        <br>
+        <h3>Agregar Educación</h3>
+        <form>
+            <fieldset>
+                <label>Año</label>
+                <select class="custom-select">
+                    <option selected>Seleciona el año</option>
+                    <option value="1">2020</option>
+                    <option value="2">2019</option>
+                    <option value="3">2018</option>
+                </select>
+                <div class="form-group">
+                    <label>Institución</label>
+                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Agrega la institución">
+                </div>
+                <div class="form-group">
+                    <label>Lugar</label>
+                    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Agrega el Lugar">
+                </div>
+
+            </fieldset>
+        </form>
+
     </main>
     <footer>
         <h5>Contacto</h5>
