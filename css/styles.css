@@ -1,12 +1,12 @@
-header {
+#logo{
+    text-align: center;
+}
+#titulo{
+    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-
-}
-#titulo{
-    text-align: center;
 }
 main{
     display: flex;
@@ -15,12 +15,16 @@ main{
     flex-direction: column; 
     margin-top: 20px;
     margin-bottom: 20px;
+    max-width: 100%;
 }
-
+.contenido{
+    text-align: center;
+}
 #texto{
     text-align: center;
     color: white;
     background-color: rgb(95, 95, 102);
+    max-width: 100%;
 }
 #perfil{
     margin-top: 20px;
